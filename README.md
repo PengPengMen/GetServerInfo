@@ -1,0 +1,2 @@
+# GetServerInfo
+使用Powershell连接MySQL数据库，获取服务器的运行状态，达到实时监测的目的
